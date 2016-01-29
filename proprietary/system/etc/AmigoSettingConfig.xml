@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<amigosetting version="1">
+<amigosetting amigoname="is_new_black_gesture_on" amigovalue="1"/>
+<amigosetting amigoname="is_psensor_browse_picture_dg" amigovalue="1"/>
+<amigosetting amigoname="is_psensor_ctrl_video_dg" amigovalue="1"/>
+<amigosetting amigoname="is_vibration_alert_on" amigovalue="1"/>
+<amigosetting amigoname="is_sdg_light_screen_on" amigovalue="1"/>
+<amigosetting amigoname="is_sdg_unlock_on" amigovalue="1"/>
+<amigosetting amigoname="is_sdg_desktop_slide_on" amigovalue="1"/>
+<amigosetting amigoname="black_gesture_u_right" amigovalue="0:fastcamera"/>
+</amigosetting>

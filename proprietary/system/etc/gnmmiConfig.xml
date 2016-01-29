@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gnmmi version="1">
+<gnmmi name="PhoneLoopbackTest" value="2"/>
+<gnmmi name="PhoneLoopbackTest2" value="4"/>
+<gnmmi name="EarphoneLoopbackTest" value="4"/>
+<gnmmi name="ReceiverTest" value="4"/>
+<gnmmi name="ReceiverTest2" value="2"/>
+<gnmmi name="ToneTest" value="4"/>
+<gnmmi name="ToneTest2" value="4"/>
+<gnmmi name="FMTest" value="4"/>
+</gnmmi>

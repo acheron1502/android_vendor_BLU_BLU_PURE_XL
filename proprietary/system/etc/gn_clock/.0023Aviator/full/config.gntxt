@@ -1,0 +1,10 @@
+﻿version=1.0.0.f
+Engine=MAGE1
+ProjectDir=.SBClock
+FileDirName=0023propeller
+ClassName=com.gionee.amisystem.clock3d.propeller.Propeller
+DexJarName=propeller.jar
+EnglishName=Aviator
+ChineseName=飞行者
+Description=no data
+CallMode=normal

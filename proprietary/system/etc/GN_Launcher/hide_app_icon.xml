@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application>
+    <!-- navil快板 -->
+    <hide
+        packageName="com.gionee.navil.shortcuttools"
+        className="com.gionee.navil.shortcuttools.ShortcutToolsWidget"/>
+    
+    <!-- navil未接来电 -->
+    <hide
+        packageName="com.gionee.navi.keyguard"
+        className="com.gionee.navi.keyguard.widget.KeyguardMissedCallWidget"/>
+    
+    <!-- navil桌面 -->
+    <hide
+        packageName="com.gionee.navil"
+        className="com.gionee.navil.NavilLauncherActivity"/>
+        
+    <!-- 随变主题 -->
+     <hide
+        packageName="com.gionee.change"
+        className="com.gionee.change.activity.ChangeGridActivity"/>
+     
+     <!-- ami换机 -->
+     <hide
+        packageName="com.gionee.dataghost"
+        className="com.gionee.dataghost.ui.EntranceActivity"/>
+     
+     <!-- 铃音 -->
+     <hide
+        packageName="com.gionee.ringtone"
+        className="com.gionee.ringtone.MainActivity"/>
+
+     <!-- Google+ Photos -->
+     <hide
+        packageName="com.google.android.apps.plus"
+        className="com.google.android.apps.plus.phone.ConversationListActivity"/>
+
+     <!-- input method-->
+     <hide
+        packageName="com.android.inputmethod.latin"
+        className="com.android.inputmethod.latin.setup.SetupActivity"/>
+        
+    <!-- Google input method-->
+     <hide
+        packageName="com.google.android.inputmethod.latin"
+        className="com.android.inputmethod.latin.setup.SetupActivity"/>
+     
+</application>
